@@ -48,5 +48,3 @@ The dataset contains information about borrowers at the time loans were issued, 
 
 
 
-## 📂 Repository Structure
-
